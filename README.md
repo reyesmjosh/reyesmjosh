@@ -1,4 +1,4 @@
-# Hi, I'm Mark Joshua G. Reyes 👋
+# Hi, I'm Mark👋
 ### Full Stack Software Developer | .NET & Python Specialist
 
 I am a Full Stack Developer with 4 years of experience architecting high-traffic enterprise applications. My expertise lies in the **.NET Ecosystem**, **Cloud Architecture**, and **Data Analytics**.
